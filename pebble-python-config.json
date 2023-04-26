@@ -1,0 +1,4 @@
+{
+  "main": "golembot.py",
+  "requirementsFile": "requirements.txt"
+}
